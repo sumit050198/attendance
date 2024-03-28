@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logoImage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Urbanist", sans-serif;
+}
+
+/* .group10 {
+    width: 274.76px;
+    height: 238px;
+    margin-top: 138px;
+    margin-left: 43px;
+    gap: 0px;
+    opacity: 0px;
+} */
+
+.RectangleImg {
+    width: 360px;
+    height: 414px;
+    margin-top: 350px;
+    gap: 0px;
+    border-radius: 97px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+    z-index: -1;
+}
+
+/* .welcome {
+    font-family: "Urbanist", sans-serif;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 25.2px; */
+    /* text-align: center; */
+/* } */
+
+.form-control {
+    width: 257px;
+    height: 40px;
+    /* left: 14.5px; */
+    gap: 0px;
+    border-radius: 47px;
+    opacity: 0px;
+
+}
+
+.rounded-circle {
+    width: 40px;
+    height: 40px;
+    /* left: 0.1px; */
+}
+
+/* .logoImage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+
+.fake-input {
+    position: relative;
+    /* width: 240px; */
+    border-radius: 50%;
+
+
+}
+
+.fake-input input {
+    border: none;
+    background-color: #fff;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: "Urbanist", sans-serif;
+    color: #898989;
+}
+
+.fake-input img {
+    background-color: #010E4A;
+    position: absolute;
+}
+
+/* .buttonLogin {
+    background-color: #010E4A;
+    border: #010E4A;
+    padding: 12px 116px 12px 116px;
+    gap: 10px;
+    border-radius: 33px;
+    opacity: 0px;
+
+    font-family: "Urbanist", sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 19.2px;
+    text-align: left;
+    color: #FFFFFF;
+} */
+/* 
+.ldesc {
+    font-family: "Urbanist", sans-serif;
+    font-weight: 500;
+    line-height: 18px;
+    font-size: 15px;
+    /* text-align: center; */
+    /* color: #FFFFFF; */
+/* }  */
+
+/* #RegisterUndarline {
+    color: white;
+    text-underline-offset: 5px;
+    text-decoration-line: underline;
+    opacity: 0px;
+} */
+
+/* .footer {
+    color: #FFFFFF;
+    font-family: "Urbanist", sans-serif;
+    font-weight: 500;
+    line-height: 14.4px;
+    font-size: 12px;
+} */
