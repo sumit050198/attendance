@@ -2,15 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* overflow-x: hidden; */
+
 }
 
-.logoImage {
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; */
-    font-family: "Urbanist", sans-serif;
-}
 
 /* .group10 {
     width: 274.76px;
@@ -21,7 +16,7 @@
     opacity: 0px;
 } */
 
-.RectangleImg {
+/* .RectangleImg {
     width: 360px;
     height: 414px;
     margin-top: 350px;
@@ -30,7 +25,7 @@
     opacity: 0px;
     position: absolute;
     z-index: -1;
-}
+} */
 
 /* .welcome {
     font-family: "Urbanist", sans-serif;
@@ -41,31 +36,27 @@
     /* text-align: center; */
 /* } */
 
-.form-control {
+/* .form-control {
     width: 257px;
     height: 40px;
-    /* left: 14.5px; */
     gap: 0px;
     border-radius: 47px;
     opacity: 0px;
 
-}
+} */
 
-.rounded-circle {
+/* .rounded-circle {
     width: 40px;
     height: 40px;
-    /* left: 0.1px; */
-}
+} */
 
-.fake-input {
+/* .fake-input {
     position: relative;
-    /* width: 240px; */
+    width: 240px;
     border-radius: 50%;
+} */
 
-
-}
-
-.fake-input input {
+/* .fake-input input {
     border: none;
     background-color: #fff;
     display: block;
@@ -73,12 +64,12 @@
     box-sizing: border-box;
     font-family: "Urbanist", sans-serif;
     color: #898989;
-}
+} */
 
-.fake-input img {
+/* .fake-input img {
     background-color: #010E4A;
     position: absolute;
-}
+} */
 
 /* .buttonLogin {
     background-color: #010E4A;
